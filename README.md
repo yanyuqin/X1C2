@@ -25,9 +25,8 @@ Disconnect all batteries for about 10 minutes. Afterward connect charger and hol
 断开所有电池约10分钟。然后连接充电器并按住电源按钮30秒，这将清除EC，并将使您进入完全冷启动状态。
 
 
-参考1
-[enter link description here](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/blob/master/Guides/Bios-Mod.md)
-参考2
-[enter link description here](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/blob/master/Guides/Bios-Mod.md)
-参考3 补丁源文件及方法
-[enter link description here](https://github.com/digmorepaka/thinkpad-firmware-patches)
+[参考1](https://github.com/simprecicchiani/ThinkPad-T460s-macOS-OpenCore/blob/master/Guides/Bios-Mod.md)
+
+[参考2 补丁源文件及方法](https://github.com/digmorepaka/thinkpad-firmware-patches)
+
+[T440 mod BIOS](https://notthebe.ee/blog/removing-the-wifi-whitelist/)
