@@ -30,3 +30,5 @@ Disconnect all batteries for about 10 minutes. Afterward connect charger and hol
 [参考2 补丁源文件及方法](https://github.com/digmorepaka/thinkpad-firmware-patches)
 
 [T440 mod BIOS](https://notthebe.ee/blog/removing-the-wifi-whitelist/)
+
+[编程器软件AsProgrammer](https://github.com/nofeletru/UsbAsp-flash)
